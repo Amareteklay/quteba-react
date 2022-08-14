@@ -15,7 +15,6 @@ code {
 .deep-green {
     background-color: darkgreen;
     color: aliceblue;
-    padding: 10px;
 }
 
 .Logo {
@@ -34,9 +33,7 @@ code {
 }
 
 .banner-area {
-    background-color: blue;
     height: 300px;
-    color: aliceblue;
 }
 
 .footer {
@@ -45,4 +42,12 @@ code {
     bottom: 0;
     width: 100%;
     text-align: center;
+}
+
+.is-active {
+    color: aquamarine;
+}
+
+.nav-link {
+    color: aliceblue;
 }
